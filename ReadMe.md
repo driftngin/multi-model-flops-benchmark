@@ -2,6 +2,9 @@
 
 A simple GUI tool to benchmark your hardware's FLOPS (Floating Point Operations Per Second) performance using popular neural network models.
 
+<img width="800" height="630" alt="FLOPS-benchmark" src="https://github.com/user-attachments/assets/d0a9b135-b467-40b0-9092-32963e1aef61" />
+
+
 ## Features
 
 - **Simple Mode**: Quick ResNet50 benchmark (offline, no downloads)
